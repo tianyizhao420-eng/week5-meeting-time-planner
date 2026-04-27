@@ -4,7 +4,7 @@ A reusable AI skill that converts a proposed meeting time across multiple cities
 flags whether each slot falls within working hours, and detects public holidays —
 all in one command.
 
-**Video demo:** _[add your Zoom / YouTube link here]_
+**Video demo:** https://youtu.be/pcSfoMYtPPk?si=35gRQ1pou88aixIG
 
 ---
 
